@@ -2,6 +2,7 @@
   "name": "reactone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jsuttipong.github.io/reactone/",
   "dependencies": {
     "express": "^4.16.4",
     "gh-pages": "^2.0.1",
@@ -16,8 +17,7 @@
     "test": "react-scripts test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject",
-    "postinstall": "npm run build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
