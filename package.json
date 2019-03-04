@@ -2,7 +2,7 @@
   "name": "reactone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jsuttipong.github.io/reactone/",
+  "homepage": "https://jsuttipong.github.io/reactone",
   "dependencies": {
     "express": "^4.16.4",
     "gh-pages": "^2.0.1",
